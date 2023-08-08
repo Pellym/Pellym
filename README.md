@@ -1,12 +1,14 @@
-### Hi there 👋
+### Greetings!
+![R](https://github.com/Pellym/Pellym/assets/122816986/b1ad946f-e213-4255-a70f-1c1157613637)
+
 
 <!--
 **Pellym/Pellym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on front end development
-- 🌱 I have learnt 📚![bootstrap](https://th.bing.com/th/id/R.d012e3c7188f09ae03490cc9b4a3154b?rik=0OJ9MkJhJ6uNNg&pid=ImgRaw&r=0)
+- 🌱 I have learnt 📚
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,5 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-skills are ![bootstrap-social-logo](https://github.com/Pellym/Pellym/assets/122816986/5e517895-c1e8-497c-929c-e4b6515aed02)
 
