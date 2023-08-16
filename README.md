@@ -1,4 +1,6 @@
 ### Greetings!
+
+I am Pelly Mobeng a front end developer from South Africa in the Gauteng province in Vereeniging○Bedworthpark 🧚‍♀️💌💣🎓🥇🥇
 ![R](https://github.com/Pellym/Pellym/assets/122816986/b1ad946f-e213-4255-a70f-1c1157613637)
 
 
